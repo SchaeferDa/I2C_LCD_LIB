@@ -2,7 +2,7 @@
 
 ## Overview
 This I2C-LCD1602-Library is an education project.  
-The I2C_LIB is written for Atmel ATmega328P and developed with Atmel Studio 7.0 IDE.   
+The I2C_LCD_LIB is written for Atmel ATmega328P and developed with Atmel Studio 7.0 IDE.   
 
 **You can use it at your own risk.**
 
