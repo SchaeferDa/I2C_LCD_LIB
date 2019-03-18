@@ -6,7 +6,10 @@ The I2C_LIB is written for Atmel ATmega328P and developed with Atmel Studio 7.0 
 
 **You can use it at your own risk.**
 
-**[Download Library [latest version]](https://github.com/schaeferservices/I2C_LCD_LIB/releases)**
+**[Download Library [latest version]](https://github.com/schaeferservices/I2C_LCD_LIB/releases)**  
+
+> **Important**  
+> The [I²C-Library](#used-libraries) must be connected/enclosed!
 
 ## Properties
 
