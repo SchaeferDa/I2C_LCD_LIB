@@ -50,4 +50,5 @@ void clearScreen();
 
 ## Used Literature
 - [Datasheet LCD1602](https://cdn-shop.adafruit.com/datasheets/TC1602A-01T.pdf)
-- [Datasheet PCF8574x](https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf)
+- [Datasheet NXP PCF8574x](https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf)
+- [Datasheet Atmel ATmega328P](https://cdn-shop.adafruit.com/datasheets/ATMEGA328P.pdf)
